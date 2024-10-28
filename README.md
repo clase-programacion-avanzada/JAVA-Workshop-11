@@ -81,7 +81,7 @@ Suponga que tiene el siguiente diagrama de clases:
 
 ![assets/Taller11-Preguntas_teoricas_diagrama_de_clases.png](assets/Taller11-Preguntas_teoricas_diagrama_de_clases.png)
 
-Responda las preguntas 15 a 17 con base en el diagrama anterior. Si desea profundizar más en un parcial anterior, puede hacerlo [aquí]()
+Responda las preguntas 15 a 17 con base en el diagrama anterior. Si desea profundizar más en un parcial anterior, puede hacerlo [aquí](https://github.com/clase-programacion-avanzada/Parcial2_2410)
 
 15. ¿Cuáles son los tipos de participantes que se pueden instanciar en el programa?
     - ParticipanteExterno, Participante & ParticipanteInterno
